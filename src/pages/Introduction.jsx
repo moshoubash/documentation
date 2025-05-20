@@ -8,7 +8,7 @@ export default function Introduction() {
           <div className="col-12">
             <div className="d-flex flex-column flex-md-row justify-content-between align-items-center gap-4">
               <h1 className="display-4 mb-4 mb-md-0 text-center">Introduction</h1>
-              <img src="./assets/images/team-room-dashboard.svg" width={200} alt="Team Room Logo" className="img-fluid" />
+              <img src="../assets/images/team-room-dashboard.svg" width={200} alt="Team Room Logo" className="img-fluid" />
             </div>
             <h2 className="mt-5 mb-3">What is a Team Room?</h2>
             <p className="mb-4">

@@ -97,7 +97,7 @@ export default function BookingFlow() {
           {/* Booking flow diagram */}
           <div class="mt-5">
             <img
-              src="./assets/images/booking-flow.svg"
+              src="../assets/images/booking-flow.svg"
               alt="Booking Flow Diagram"
               class="img-fluid"
             />

@@ -6,7 +6,7 @@ export default function Authorization() {
       <h1 class="display-4 mb-3">Authorization Process</h1>
 
       <img
-        src="./assets/images/authorization-process.svg"
+        src="../assets/images/authorization-process.svg"
         alt="Authorization process in Team Room"
         className="img-fluid mb-4"
       />
