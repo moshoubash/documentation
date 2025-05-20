@@ -6,7 +6,7 @@ export default function Database() {
       <h1 class="display-4 mb-4">Database Schema</h1>
       <a href="https://github.com/moshoubash/Masterpiece-TeamRoom/tree/main/database/migrations" className="btn btn-outline-dark mb-4"><i className="fa-brands fa-github"></i> Database Migrations</a>
       <img
-        src="../assets/images/database-schema.svg"
+        src="database-schema.svg"
         alt="Team Room Database Schema"
         className="img-fluid mb-4"
       />

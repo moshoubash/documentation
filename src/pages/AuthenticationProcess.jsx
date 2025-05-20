@@ -4,7 +4,7 @@ export default function AuthenticationProcess() {
   return (
     <div class="container my-5">
       <h3 class="display-4 mb-4">Authentication Process</h3>
-      <img src="../assets/images/authentication-flow.svg" alt="Authentication flow" className="img-fluid mb-4" />
+      <img src="authentication-flow.svg" alt="Authentication flow" className="img-fluid mb-4" />
       <p>
         The authentication system is implemented using <strong>Laravel Breeze</strong>, a lightweight and clean starter kit for Laravel applications. It handles registration, login, logout, password reset, email verification, and session management.
       </p>
